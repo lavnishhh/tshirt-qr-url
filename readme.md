@@ -1,0 +1,1 @@
+This is a github hosted repo for redirect/image hosting functions for a tshirt QR code print
